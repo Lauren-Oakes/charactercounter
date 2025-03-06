@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-       <div>
+       <div className='font-extrabold'>
       <h1>Analyse your text in real-time.</h1>
       <TextboxComponent />
     </div>
